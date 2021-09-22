@@ -1,9 +1,9 @@
 # Webdev
 
-##Description
+## Description
 Layout on sreen resolution 1920px.
 
-##Technologies
+## Technologies
 - HTML
 - CSS
 
